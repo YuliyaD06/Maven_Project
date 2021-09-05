@@ -1,0 +1,8 @@
+name: YAML Test suite
+parallel: classes
+threadCount: 2
+tests:
+  - name: Suite with YAML
+    classes:
+      - classWork.taf.TestClassNg
+      - classWork.taf.TestClassTwoNg

@@ -1,0 +1,47 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "id": "1",
+      "username": "a",
+      "realname": "Alberto Boo",
+      "password": "b",
+      "email": "alberto.boo@mail.com"
+    },
+    {
+      "id": "3",
+      "username": "berta",
+      "realname": "Berta Crush",
+      "password": "Tre4gh0M",
+      "email": "berta.crush@mail.com"
+    },
+    {
+      "id": "5",
+      "username": "john",
+      "realname": "John Doe",
+      "password": "Saltro45",
+      "email": "john.doe@mail.com"
+    },
+    {
+      "id": "6",
+      "username": "rangaradjangoo",
+      "realname": "Rangaradjan Radjesh",
+      "password": "bbRfw76rb",
+      "email": "rangaradjan.radjesh@mail.com"
+    },
+    {
+      "id": "2",
+      "username": "saldo",
+      "realname": "Saldo Rush",
+      "password": "hro8052w",
+      "email": "saldo.rush@mail.com"
+    },
+    {
+      "id": "4",
+      "username": "simon",
+      "realname": "Simon Greath",
+      "password": "qbmu76rb",
+      "email": "simon.greath@mail.com"
+    }
+  ]
+}
